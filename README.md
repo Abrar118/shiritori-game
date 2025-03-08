@@ -20,9 +20,9 @@ Shiritori (しりとり) is a Japanese word game in which players take turns say
 
 ## Tech Stack
 
-- Next.js 14 (App Router)
-- React 18
-- Tailwind CSS
+- Next.js 15 (App Router)
+- React 19
+- Tailwind CSS v4
 - shadcn/ui Components
 - TypeScript
 
